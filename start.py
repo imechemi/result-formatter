@@ -1,3 +1,4 @@
+import os
 import re
 
 def format(metaKeys, values, result):
@@ -46,22 +47,26 @@ def format(metaKeys, values, result):
 
   return output
 
-file1 = open("19162.txt","r")
-lines = file1.readlines()
+txtFiles = os.listdir("txt_files")
+
+for txtFile in txtFiles:
+
+  file1 = open("txt_files/" + txtFile, "r")
+  lines = file1.readlines()
 
 
-lineIndex = 0
-while (lineIndex + 2 < len(lines)):
-  metaKeys = lines[lineIndex].split();
-  values = lines[lineIndex + 1].split();
-  result = metaKeys[len(metaKeys) - 1]
-  formattedRow = format(metaKeys, values, result)
-  print(','.join(formattedRow))
-  if (result == 'ABST'):
-    lineIndex += 1
-  else: 
-    lineIndex += 2
+  lineIndex = 0
+  while (lineIndex + 2 < len(lines)):
+    metaKeys = lines[lineIndex].split();
+    values = lines[lineIndex + 1].split();
+    result = metaKeys[len(metaKeys) - 1]
+    formattedRow = format(metaKeys, values, result)
+    print(','.join(formattedRow))
+    if (result == 'ABST'):
+      lineIndex += 1
+    else: 
+      lineIndex += 2
 
-file1.close()
+  file1.close()
 
 

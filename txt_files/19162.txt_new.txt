@@ -1,0 +1,61 @@
+12630993   M NIKHIL RAI                                          301     302     027     029     030              B2 B1 B2    PASS                      
+                                                                064  D1 061  D1 055  D1 065  C2 047  D2     
+12630994   M DORJEE DHONDUP                                      301     302     027     029     030              A1 A1 B2    PASS                      
+                                                                057  D2 058  D1 052  D2 063  D1 056  D1     
+12630995   M PINCHOK TSHERING BHUTIA                             301     302     027     029     030              A1 A2 B1    PASS                      
+                                                                071  C2 067  C2 061  C2 072  C1 059  C2     
+12630996   M SANGDEN LAMA TAMANG                                 301     302     027     029     030              A2 A1 A2    PASS                      
+                                                                049  D2 051  D2 045  D2 057  D2 052  D1     
+12630997   F SONIYA AKHTERI                                      301     302     027     029     030              A2 B2 B1    PASS                      
+                                                                073  C2 071  C1 067  C1 076  B2 060  C2     
+12630998   F ISHIKA KUMARI                                       301     302     027     029     030              A1 B2 A1    PASS                      
+                                                                083  B2 090  A1 085  A2 092  A1 095  A1     
+12630999   F THILAY DOLMA                                        301     027     029     030     117              A1 B1 A1    PASS                      
+                                                                076  C2 079  B1 085  A2 086  A2 081  B1     
+12631000   F TENZIN NIMA                                         301     027     029     030     117              B1 B1 A1    PASS                      
+                                                                078  C1 072  B2 079  B2 060  C2 075  C1     
+12631001   F PEMA DECHEN                                         301     027     029     030     117              B2 B1 A2    PASS                      
+                                                                064  D1 047  D2 069  C2 066  C1 064  D1     
+12631002   F SANGYAL LHAZOM                                      301     027     029     030     117              B1 A1 B2    PASS                      
+                                                                060  D2 046  D2 061  D1 052  D1 056  D2     
+12631003   F TENZIN YANGZOM                                      301     027     029     030     117              A2 B1 B1    PASS                      
+                                                                064  D1 073  B2 072  C1 064  C1 070  C2     
+12631004   F THINLEY CHODON                                      301     027     029     030     117              B2 B1 A2    PASS                      
+                                                                071  C2 069  B2 076  B2 073  B2 072  C2     
+12631005   M LOBSANG GOMBU                                       301     027     029     030     117              B1 B1 A2    PASS                      
+                                                                062  D1 064  C1 072  C1 071  B2 066  D1     
+12631006   M TENZIN TOPDEN                                       301     027     029     030     117              A2 B1 B2    PASS                      
+                                                                067  D1 063  C2 070  C1 048  D2 065  D1     
+12631007   F PHUNTSOK JHANGMO LAMA                               301     030     054     055     117              A1 B1 A2    PASS                      
+                                                                071  C2 065  C1 068  C2 056  C2 068  D1     
+12631008   F MEMORI MENA                                         301     030     054     055     117              A1 A1 A1    PASS                      
+                                                                069  D1 069  C1 068  C2 054  C2 067  D1     
+12631009   M KARMA TSHERING                                      301     030     054     055     117              A1 A1 B1    PASS                      
+                                                                061  D1 063  C2 061  D1 057  C2 062  D2     
+12631010   M SANGAY WANGDAK                                      301     030     054     055     117              A1 A2 B1    COMP               055    
+                                                                086  B1 063  C2 073  C1 040  E 075  C1     
+12631011   M ABHISHEK PRASAD                                     301     302     030     054     055              B1 B1 A2    PASS                      
+                                                                072  C2 082  B1 083  B1 082  B1 081  B1     
+12631012   M ANUBHAV KUMAR PRASAD                                301     302     030     054     055              A2 B1 A2    PASS                      
+                                                                078  C1 078  B1 075  B2 077  B2 046  D2     
+12631013   F KELZANG DOMA SHERPA                                 301     302     030     054     055              A2 B1 B1    PASS                      
+                                                                079  C1 066  C2 051  D1 065  D1 044  D2     
+12631014   F RIGSANG WANGMU                                      301     029     054     806     810              A1 B2 A1    PASS                      
+                                                                064  D1 087  A2 083  B1 081  B1 092  A1     
+12631015   F SONAM YANGZOM                                       301     029     054     806     810              A2 B1 A1    PASS                      
+                                                                074  C2 090  A2 089  A2 088  A1 094  A1     
+12631016   F WOSER DOLMA                                         301     029     117     806     810              B1 B2 B1    PASS                      
+                                                                065  D1 084  B1 079  B2 091  A1 079  B2     
+12631017   F SEEMRAN TAMANG                                      301     029     054     806     810                          ABST                      
+12631018   M TASHI TENZIN                                        301     029     117     806     810              A1 A2 A1    PASS                      
+                                                                049  D2 073  C1 073  C1 085  A2 069  C2     
+12631019   F TENZIN YANGZOM                                      301     029     117     806     810              B1 B1 B1    PASS                      
+                                                                058  D2 070  C1 068  D1 073  C1 077  C1     
+12631020   F MIGMAR PHENTHOK                                     301     029     117     806     810              A2 B1 A2    PASS                      
+                                                                064  D1 085  A2 081  B1 082  A2 088  A2     
+12631021   F TENZING SONAM                                       301     029     117     806     810              B1 A2 B1    PASS                      
+                                                                060  D2 077  B2 075  C1 074  B2 086  B1     
+12631022   M SONAM SHERPA                                        301     029     117     806     810              A2 A1 B1    PASS                      
+                                                                063  D1 067  C2 064  D1 072  C1 065  D1     
+12631023   F KABITA RAI                                          301     029     054     806     810              B1 A2 A2    PASS                      
+                                                                068  D1 097  A1 096  A1 098  A1 094  A1     
