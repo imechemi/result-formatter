@@ -30,18 +30,19 @@ def format(metaKeys, values, result):
   subjectIndex = start
   scoreIndex = 0
   while(index < subjectCount):
-    output.append(metaKeys[subjectIndex])
+    if (metaKeys[subjectIndex] != 'ABST'):
+      output.append(metaKeys[subjectIndex])
     if (result == 'ABST'):
-      output.append(" ")
-      output.append(" ")
+      output += [' ', ' ']
     else:
-      output.append(values[scoreIndex])
-      output.append(values[scoreIndex+1])
+      output += [values[scoreIndex], values[scoreIndex + 1]]
     subjectIndex += 1
     scoreIndex += 2
     index += 1
 
-  if (result != 'ABST'):
+  if (result == 'ABST'):
+    output += [' ', ' ', ' ', result]
+  else:
     for i in range(start + 5, len(metaKeys)):
       output.append(metaKeys[i])
 
@@ -56,7 +57,7 @@ for txtFile in txtFiles:
 
 
   lineIndex = 0
-  while (lineIndex + 2 < len(lines)):
+  while (lineIndex + 1 < len(lines)):
     metaKeys = lines[lineIndex].split();
     values = lines[lineIndex + 1].split();
     result = metaKeys[len(metaKeys) - 1]
